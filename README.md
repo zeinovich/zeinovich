@@ -8,7 +8,7 @@ and Youtube (luckily there's a ton to learn on Youtube).
 My ultimate goal is to become AI engineer. Besides stats, neuroscience is one of the biggest passions of mine. I'm an avid listener of Andrew Huberman, 
 Lex Fridman and other podcasts about AI and neurophysiology.
 
-#My goals
+# My goals
 - get decent proficiency in Python and libraries (pandas, numpy, scipy, matplotlib)
 - get familiar with SQLs (esp. PostgreSQL)
 - learn data visualization tools and techniques (plan to learn PowerBI)
