@@ -1,7 +1,7 @@
 # zeinovich
 My name is Nikita, I'm a 20yo student in MISIS. 
-I've got fascinated about statistics about a year ago when Statistics course started in our uni and always solved algorithmical problems easily.
-I knew not very much about programming and started to learn Python, because it was easy to read and learn and its flexbility.
+I've got fascinated about statistics about a year ago when Statistics course started in our uni. I always solved algorithmical problems easily, but
+knew not very much about programming and started to learn Python, because it was easy to read and learn and its flexbility.
 For personal training, I solve 2-3 problems (at least try to) from codewars (now on kyu 4-5) a week. Study mainly on Coursera w/o certificates (can't afford),
 Datacamp and Youtube (luckily there's a ton to learn on Youtube).
 
